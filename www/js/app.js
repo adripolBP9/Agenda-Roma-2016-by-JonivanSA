@@ -85,10 +85,10 @@ window.addEventListener('load', function() {
     });
     
     $JSView.declareModal({
-        modal_info_sanprieto: {
-            url: '/modal_info_sanprieto',
-            template: 'views/modal_info_sanprieto.html',
-            controller: 'modal_info_sanprieto'
+        modal_info_sanpietro: {
+            url: '/modal_info_sanpietro',
+            template: 'views/modal_info_sanpietro.html',
+            controller: 'modal_info_sanpietro'
         }
     });
     
