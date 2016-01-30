@@ -46,5 +46,17 @@ $JSView.controller = {
 		$JSView.dataView({},e)	
 	}
 	
+	modal_info_coliseo: function(e){
+		$JSView.dataView({},e)	
+	}
+	
+	modal_info_sanprieto: function(e){
+		$JSView.dataView({},e)	
+	}
+	
+	modal_info_navona: function(e){
+		$JSView.dataView({},e)	
+	}
+	
 	
 }
