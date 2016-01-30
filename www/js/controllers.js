@@ -45,15 +45,12 @@ $JSView.controller = {
     	modal_info_aeroport: function(e){
 		$JSView.dataView({},e)	
 	}
-	
 	modal_info_coliseo: function(e){
 		$JSView.dataView({},e)	
 	}
-	
-	modal_info_sanprieto: function(e){
+	modal_info_sanpietro: function(e){
 		$JSView.dataView({},e)	
 	}
-	
 	modal_info_navona: function(e){
 		$JSView.dataView({},e)	
 	}
