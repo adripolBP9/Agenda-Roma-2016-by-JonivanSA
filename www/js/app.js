@@ -75,6 +75,30 @@ window.addEventListener('load', function() {
             controller: 'modal_info_aeroport'
         }
     });
+    
+    $JSView.declareModal({
+        modal_info_coliseo: {
+            url: '/modal_info_coliseo',
+            template: 'views/modal_info_coliseo.html',
+            controller: 'modal_info_coliseo'
+        }
+    });
+    
+    $JSView.declareModal({
+        modal_info_sanprieto: {
+            url: '/modal_info_sanprieto',
+            template: 'views/modal_info_sanprieto.html',
+            controller: 'modal_info_sanprieto'
+        }
+    });
+    
+    $JSView.declareModal({
+        modal_info_navona: {
+            url: '/modal_info_navona',
+            template: 'views/modal_info_navona.html',
+            controller: 'modal_info_navona'
+        }
+    });
      
     /*Asign view start*/
     $JSView
