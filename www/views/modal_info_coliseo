@@ -1,0 +1,10 @@
+<jsv-header>
+    <button-header-left onclick="$JSView.closeModal('modal_info_coliseo')">TANCAR</button-header-left>
+     Coliseo de Roma
+    <button-header-right"></button-header-right>
+</jsv-header>
+<jsv-content>
+   
+        <h1 class="paddingFull10">Coliseo ROMA</h1>
+
+</jsv-content>
