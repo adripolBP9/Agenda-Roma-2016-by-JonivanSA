@@ -13,11 +13,11 @@
     <name>Agenda Roma 2016</name>
 
    <description>
-       Aplicació phonegap dels alumnes de 4t INFO Curs 2015 2016 [ABC]
+       App by: JonivanSA
     </description>
 
-    <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
-       Sergi Curtu
+    <author href="https://numancia.cat/intranet" email="jmorato48@iesnumancia.cat">
+       Jonathan Morató, Ivan santander
     </author>
 
 	<content src="index.html"/>
