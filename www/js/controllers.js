@@ -53,7 +53,7 @@ $JSView.controller = {
 	},
 	modal_info_navona: function(e){
 		$JSView.dataView({},e)	
-	},
+	}
 	
 	
 }
