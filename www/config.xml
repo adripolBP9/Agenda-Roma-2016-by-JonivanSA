@@ -4,20 +4,20 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "cat.numancia.roma_2016"
         versionCode = "26" 
-        version     = "1.0.26" >
+        version     = "1.0.20" >
 	
 	<!-- versionCode is optional and Android only -->
 
 	<preference name="phonegap-version" value="cli-5.2.0" />
 
-    <name>Agenda Roma 2016</name>
+    <name>Agenda de Roma 2016</name>
 
    <description>
-       App by: JonivanSA
+       App by: AdripolBP9
     </description>
 
-    <author href="https://numancia.cat/intranet" email="jmorato48@iesnumancia.cat">
-       Jonathan Morató, Ivan santander
+    <author href="https://numancia.cat/intranet" email="aborreguero59@iesnumancia.cat">
+       Adrian Borreguero, Pol Prado
     </author>
 
 	<content src="index.html"/>
